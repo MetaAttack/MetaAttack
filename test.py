@@ -4,7 +4,6 @@ import sys
 sys.path.append('/home/ubuntu/ArmPi/HiwonderSDK/PWMServo')
 import time
 import threading
-# import Board
 import time
 import subprocess
 
