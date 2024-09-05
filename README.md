@@ -11,5 +11,5 @@ The 'aplay' command in the feedback code needs to be changed to the port of the 
 
 The path to the audio attack file needs to be changed after the 'aplay' command.
 
-To achieve optimal attack performance, this algorithm should be used in conjunction with the attack device described in the paper "A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials."
+To achieve optimal attack performance, this algorithm should be used in conjunction with the attack device described in the paper.
 --->
