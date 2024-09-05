@@ -5,7 +5,7 @@ The code in this project primarily introduces a feedback algorithm for MetaAttac
 
 Simply run the feedback algorithm by entering through test.py.
 
-The feedback code needs to be used in conjunction with iwlist.
+The feedback code needs to be used in conjunction with iwlist (https://manpages.ubuntu.com/manpages/focal/man8/iwlist.8.html).
 
 The 'aplay' command in the feedback code needs to be changed to the port of the sound card on your own device.
 
